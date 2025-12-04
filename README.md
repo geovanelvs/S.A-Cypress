@@ -21,9 +21,9 @@ Se o seu Live Server estiver usando outra porta, é só ajustar isso no arquivo 
 Abra o Cypress
 
 Use o comando:
-
-"npx cypress open"
-
+```
+npx cypress open
+```
 
 Depois é só:
 
