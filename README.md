@@ -34,12 +34,12 @@ selecionar o navegador;
 clicar no teste que quer rodar.
 
 # Estrutura do projeto
-cypress/
+´´´´cypress/
   e2e/
     cadastro.cy.js
     index.cy.js
 cypress.config.js
-README.md
+README.md´´´´
 
 # O que foi testado
 # Página de Cadastro — cadastro.cy.js
