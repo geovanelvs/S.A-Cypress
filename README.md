@@ -6,9 +6,9 @@ A ideia foi validar duas telas importantes da aplicação — Home (Index) e Cad
 Instale o Cypress
 
 No terminal do projeto:
-
+```
 npm install cypress --save-dev
-
+```
 Rode a aplicação localmente
 
 Pode ser com o Live Server do VS Code mesmo:
