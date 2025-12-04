@@ -39,8 +39,8 @@ clicar no teste que quer rodar.
     cadastro.cy.js
     index.cy.js
 cypress.config.js
-README.md```
-
+README.md
+```
 # O que foi testado
 # Página de Cadastro — cadastro.cy.js
 
@@ -78,14 +78,14 @@ A ideia aqui é garantir que a home esteja funcional e que os links levem o usu�
 
 Arquivo cypress.config.js:
 
-const { defineConfig } = require("cypress");
+```const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
     baseUrl: "http://127.0.0.1:5500",
   },
 });
-
+```
 
 Caso você use outra porta, é só mudar ali no baseUrl.
 
